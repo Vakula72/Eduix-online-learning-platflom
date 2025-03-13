@@ -1,1 +1,1 @@
-# HTML-project
+# Eduix
